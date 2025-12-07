@@ -61,3 +61,62 @@ Online-property-listing-
 ```bash
 git clone https://github.com/Gnanasekark/Online-property-listing-.git
 cd Online-property-listing-
+▶️ Front-End Setup (React + TypeScript)
+cd front-end
+npm install
+npm run dev
+▶️ Back-End Setup (Node + Express)
+cd back-end
+npm install
+npm start
+🧪 Usage
+🏠 For Users
+
+Visit the home page to explore available properties
+
+Search properties by features
+
+Open a property to see full details
+
+Contact owners via the messaging system
+
+🏢 For Property Owners
+
+Login to dashboard
+
+Add new property listing with:
+
+Title
+
+Description
+
+Price
+
+Bedrooms, bathrooms
+
+Street address
+
+Images
+
+📊 Dashboard Features
+
+View all listed properties
+
+Edit or delete listings
+
+Manage user messages
+
+Profile section
+
+🤝 Contributing
+
+Contributions are welcome!
+If you'd like to improve this project:
+
+Fork the repository
+
+Create a new branch
+
+Commit your changes
+
+Open a pull request
